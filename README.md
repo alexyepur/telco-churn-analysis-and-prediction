@@ -136,7 +136,7 @@ Clone the repo and install the required packages:
 git clone https://github.com/alexyepur/telco-churn-analysis-and-prediction.git
 cd telco-churn-analysis-and-prediction
 pip install -r requirements.txt
-
+```
 
 ## License
 
