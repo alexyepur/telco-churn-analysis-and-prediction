@@ -5,7 +5,7 @@ A full-scale analytical and machine learning project focused on customer churn f
 ## Project Structure
 
 - `churn_project.ipynb` - main notebook with exploratory analysis, feature engineering, and modeling.
-- `Churn Project Report.docx` - formal report with conclusions and business recommendations.
+- `Churn Project Report.pdf` - formal report with conclusions and business recommendations.
 - `LICENSE` - project license (MIT).
 - `README.md` - project description and documentation.
 - `requirements.txt` - list of Python dependencies required for the project.
