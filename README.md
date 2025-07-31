@@ -37,7 +37,7 @@ A full-scale analytical and machine learning project focused on customer churn f
   - `transformers.py` - generic reusable transformers for pipeline integration.
 
 
-## 🔍 Key Features
+## Key Features
 
 - **Modular and reusable pipeline architecture** for outlier handling, preprocessing, and feature engineering.
 - **Careful** dataset **merging** and validation, following **strict rules** to ensure correct **alignment and integrity** of the combined data.
@@ -55,7 +55,7 @@ Multiple `.xlsx` files sourced from the publicly available Telco Customer Churn 
 - Source: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - License: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 This project leverages a robust Python data science stack, including:
 
@@ -91,7 +91,7 @@ This project leverages a robust Python data science stack, including:
 ---
 
 This combination ensures a scalable, reproducible, and modular pipeline for robust churn analysis and prediction.
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 This project leverages a robust Python data science stack, including:
 
@@ -128,9 +128,16 @@ This project leverages a robust Python data science stack, including:
 
 This combination ensures a scalable, reproducible, and modular pipeline for robust churn analysis and prediction.
 
+## Installation
+
+Clone the repo and install the required packages:
+
+```bash
+git clone https://github.com/alexyepur/telco-churn-analysis-and-prediction.git
+cd telco-churn-analysis-and-prediction
+pip install -r requirements.txt
 
 
-
-## 📜 License
+## License
 
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
